@@ -4,10 +4,10 @@ Bem-vindo ao iQuiz, um aplicativo de perguntas simples e divertido desenvolvido 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/ViniciusWessner/iQuizz-app/blob/main/home.png" width="260">&emsp;
-<img src="https://github.com/ViniciusWessner/iQuizz-app/blob/main/acerto.png" width="260">&emsp;
-<img src="https://github.com/ViniciusWessner/iQuizz-app/blob/main/erro.png" width="260">
-<img src="https://github.com/ViniciusWessner/iQuizz-app/blob/main/result.png" width="260">
+<img src="https://github.com/ViniciusWessner/iQuizz-app/blob/main/home.png" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/iQuizz-app/blob/main/acerto.png" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/iQuizz-app/blob/main/erro.png" width="180">
+<img src="https://github.com/ViniciusWessner/iQuizz-app/blob/main/result.png" width="180">
 
 ## Conhecimentos Adquiridos
 
