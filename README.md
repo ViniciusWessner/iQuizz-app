@@ -18,4 +18,4 @@ Bem-vindo ao iQuiz, um aplicativo de perguntas simples e divertido desenvolvido 
 ## Stack utilizada
 
 - Swift
-- Swift UI
+- UIkit
